@@ -1,0 +1,6 @@
+{
+    "manifest_version": 2,
+    "name": "Pure Black New Tab",
+    "version": "0.1",
+    "chrome_url_overrides": { "newtab": "nt.html" }
+}
